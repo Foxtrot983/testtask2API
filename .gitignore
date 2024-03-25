@@ -1,0 +1,6 @@
+venv/
+.vscode/
+__pycache__/
+.env
+uszips.csv
+testtask2API.code-workspace
